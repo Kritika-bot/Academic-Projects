@@ -1,1 +1,2 @@
 # Academic-Projects
+This repository contains my academic projects with an aim to apply them for finding solutions and trends in various industries and develop business models. A number of projects are associated with healthcare industry given my inclination for the same. Specifically, I hope to apply statistics, data analytics and machine learning algorithms to develop a more efficient and cost-effective healthcare industry. 
